@@ -1,4 +1,4 @@
-<h1 align="center">creditwise: Prediction of Credit Card Default</h1>
+<h1 align="center">Prediction of Credit Card Default</h1>
 <p align="center" style="margin-top:30px;">
   <img src="https://github.com/user-attachments/assets/d4936039-1e19-46e0-b163-7421af9fb351" height="500cm"/>
 </p>
