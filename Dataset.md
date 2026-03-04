@@ -1,4 +1,4 @@
-Link to the dataset - **https://www.kaggle.com/code/selener/prediction-of-credit-card-default/input**
+Link to the dataset - **https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset**
 
 Overview: The dataset consists of 30,000 rows and the size is 2.86 MB. The following is the overview of the dataset:
 | Name                         | Description                                                                                                                                                                                   |
